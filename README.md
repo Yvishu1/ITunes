@@ -5,5 +5,12 @@ By - Vishnu Ejjurothu(ejjurothuvishnu@gmail.com)
 to run tests - use below command
 mvn test
 
+check below for more details:
+
+testplan - src/test/resources/TestPlanDocs
+testcases - src/test/java/com/apple/TestCases
+issues - src/test/resources/issues
+
+
 
 
