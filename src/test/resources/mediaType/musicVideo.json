@@ -1,0 +1,33 @@
+[
+  {
+    "testCase": "Search by Music Artist",
+    "term": "Taylor Swift",
+    "media": "musicVideo",
+    "musicArtist": "Taylor Swift"
+
+  },
+  {
+    "testCase": "Search by Album",
+    "term": "Best of Queen",
+    "media": "musicVideo",
+    "album": "Bohemian Rhapsody"
+  },
+  {
+    "testCase": "Search by Music Video",
+    "term": "Epic Music Video",
+    "media": "musicVideo",
+    "musicVideo": "Epic Music Video"
+  },
+  {
+    "testCase": "Search by Mix",
+    "term": "Party Mix",
+    "media": "musicVideo",
+    "mix": "Dance Party Mix"
+  },
+  {
+    "testCase": "Search by Song",
+    "term": "Happy Song",
+    "media": "musicVideo",
+    "song": "Joyful Melody"
+  }
+]

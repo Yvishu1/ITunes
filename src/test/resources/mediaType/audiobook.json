@@ -1,0 +1,14 @@
+[
+  {
+    "testCase": "Audiobooks Search",
+    "term": "Sci-Fi",
+    "media": "audiobook",
+    "entity": "audiobook"
+  },
+  {
+    "testCase": "Search by Audiobook Author",
+    "term": "Stephen King",
+    "media": "audiobook",
+    "audiobookAuthor": "Stephen King"
+  }
+]

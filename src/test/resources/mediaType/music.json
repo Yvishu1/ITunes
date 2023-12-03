@@ -1,0 +1,33 @@
+[
+
+  {
+    "testCase": "Search by Music Artist",
+    "term": "Taylor Swift",
+    "media": "music",
+    "musicArtist": "Taylor Swift"
+  },
+  {
+    "testCase": "Search by Album",
+    "term": "Best of Queen",
+    "media": "music",
+    "album": "Best of Queen"
+  },
+  {
+    "testCase": "Search by Music Video",
+    "term": "Epic Music Video",
+    "media": "music",
+    "musicVideo": "Epic Music Video"
+  },
+  {
+    "testCase": "Search by Mix",
+    "term": "Party Mix",
+    "media": "music",
+    "mix": "Party Mix"
+  },
+  {
+    "testCase": "Search by Song",
+    "term": "Happy Song",
+    "media": "music",
+    "song": "Happy Song"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "Search by TV Show Title",
+    "term": "Mystery TV Show",
+    "media": "tvShow",
+    "tvShowTitle": "Mysteries Unfolded"
+  },
+  {
+    "testCase": "Search by TV Show Genre",
+    "term": "Science Fiction",
+    "media": "tvShow",
+    "genre": "Science Fiction"
+  },
+  {
+    "testCase": "Search by TV Show Director",
+    "term": "Director Name",
+    "media": "tvShow",
+    "director": "TV Show Director"
+  },
+  {
+    "testCase": "Search by TV Show Year",
+    "term": "2023",
+    "media": "tvShow",
+    "year": "2023"
+  },
+  {
+    "testCase": "Search by TV Show Language",
+    "term": "English",
+    "media": "tvShow",
+    "language": "English"
+  }
+]

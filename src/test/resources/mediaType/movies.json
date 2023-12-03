@@ -1,0 +1,119 @@
+[
+  {
+    "testCase": "Movies Search",
+    "term": "Inception",
+    "media": "movie",
+    "entity": "movie"
+  },
+  {
+    "testCase": "Movies Search with Limit",
+    "term": "Captain Marvel",
+    "media": "movie",
+    "entity": "movie"
+
+  },
+  {
+    "testCase": "Search by Actor",
+    "term": "Inception",
+    "media": "movie",
+    "actorTerm": "Leonardo DiCaprio"
+  },
+  {
+    "testCase": "Search by Genre",
+    "term": "Action",
+    "media": "movie",
+    "genreIndex": "28"
+  },
+  {
+    "testCase": "Search by Artist",
+    "term": "Inception",
+    "media": "movie",
+    "artistTerm": "Christopher Nolan"
+  },
+  {
+    "testCase": "Search for Short Films",
+    "term": "Short Film",
+    "media": "movie",
+    "shortFilmTerm": "Short Film"
+  },
+  {
+    "testCase": "Search by Producer",
+    "term": "Inception",
+    "media": "movie",
+    "producerTerm": "Emma Thomas"
+  },
+  {
+    "testCase": "Search by Rating",
+    "term": "Inception",
+    "media": "movie",
+    "ratingTerm": "PG-13"
+  },
+  {
+    "testCase": "Search by Director",
+    "term": "Inception",
+    "media": "movie",
+    "directorTerm": "Christopher Nolan"
+  },
+  {
+    "testCase": "Search by Release Year",
+    "term": "Inception",
+    "media": "movie",
+    "releaseYearTerm": "2010"
+  },
+  {
+    "testCase": "Search for Feature Films",
+    "term": "Feature Film",
+    "media": "movie",
+    "featureFilmTerm": "Feature Film"
+  },
+  {
+    "testCase": "Search by Movie Artist",
+    "term": "Inception",
+    "media": "movie",
+    "movieArtistTerm": "Hans Zimmer"
+  },
+  {
+    "testCase": "Search by Movie Term",
+    "term": "Action",
+    "media": "movie",
+    "movieTerm": "Action"
+  },
+  {
+    "testCase": "Search by Rating Index",
+    "term": "Inception",
+    "media": "movie",
+    "ratingIndex": "90"
+  },
+  {
+    "testCase": "Search by Description",
+    "term": "Inception",
+    "media": "movie",
+    "descriptionTerm": "Dream heist thriller"
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

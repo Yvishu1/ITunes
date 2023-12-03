@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ITunes Search API" verbose="1" >
+    <test name="ITunes Search API Test" >
+        <packages>
+            <package name="com.apple.*" />
+        </packages>
+        <groups>
+
+            <run>
+                <include name="musicVideo"/>
+                <include name="urls"/>
+            </run>
+            <!-- Exclude groups-->
+            <!--
+            <run>
+                <exclude name="groupToExclude"/>
+            </run>
+            -->
+        </groups>
+    </test>
+</suite>

@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "URL's check for search by Actor",
+    "term": "Inception",
+    "media": "movie",
+    "actorTerm": "Leonardo DiCaprio"
+  },
+  {
+    "testCase": "URL's check for search by Music Artist",
+    "term": "Taylor Swift",
+    "media": "music",
+    "musicArtist": "Taylor Swift"
+  },
+  {
+    "testCase": "URL's check for search by Music Video",
+    "term": "Epic Music Video",
+    "media": "musicVideo",
+    "musicVideo": "Epic Music Video"
+  },
+  {
+    "testCase": "URL's check for search by Podcast",
+    "term": "Science Podcast",
+    "media": "podcast",
+    "podcast": "Science Explorers"
+  },
+  {
+    "testCase": "URL's check for search by Software Category",
+    "term": "Graphic Design",
+    "media": "software",
+    "category": "Graphic Design"
+  }
+]

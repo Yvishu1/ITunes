@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "Search by Podcast",
+    "term": "Science Podcast",
+    "media": "podcast",
+    "podcast": "Science Explorers"
+  },
+  {
+    "testCase": "Search by Podcast Genre",
+    "term": "Technology",
+    "media": "podcast",
+    "genre": "Technology"
+  },
+  {
+    "testCase": "Search by Podcast Host",
+    "term": "Host Name",
+    "media": "podcast",
+    "host": "Podcast Host"
+  },
+  {
+    "testCase": "Search by Podcast Topic",
+    "term": "History",
+    "media": "podcast",
+    "topic": "Historical Narratives"
+  },
+  {
+    "testCase": "Search by Podcast Language",
+    "term": "Spanish",
+    "media": "podcast",
+    "language": "Spanish"
+  }
+]

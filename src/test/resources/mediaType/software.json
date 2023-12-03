@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "Search by Software Name",
+    "term": "Video Editing Software",
+    "media": "software",
+    "softwareName": "VideoEdit Pro"
+  },
+  {
+    "testCase": "Search by Software Category",
+    "term": "Graphic Design",
+    "media": "software",
+    "category": "Graphic Design"
+  },
+  {
+    "testCase": "Search by Software Developer",
+    "term": "Developer Name",
+    "media": "software",
+    "developer": "Software Company"
+  },
+  {
+    "testCase": "Search by Software Version",
+    "term": "Version 2.0",
+    "media": "software",
+    "version": "2.0"
+  },
+  {
+    "testCase": "Search by Software Platform",
+    "term": "Windows",
+    "media": "software",
+    "platform": "Windows"
+  }
+]

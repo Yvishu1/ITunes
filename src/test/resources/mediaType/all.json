@@ -1,0 +1,47 @@
+[
+  {
+    "testCase": "Movies Search",
+    "term": "Inception",
+    "media": "all",
+    "entity": "movie"
+  },
+  {
+    "testCase": "Podcasts Search",
+    "term": "Science",
+    "media": "all",
+    "entity": "podcast"
+  },
+  {
+    "testCase": "Music Search",
+    "term": "Queen",
+    "media": "all",
+    "entity": "musicTrack"
+  },
+  {
+    "testCase": "Music Videos Search",
+    "term": "Taylor Swift",
+    "media": "all",
+    "entity": "musicVideo"
+  },
+  {
+    "testCase": "Audiobooks Search",
+    "term": "Moby Dick",
+    "media": "all",
+    "entity": "audiobook"
+  },
+  {
+    "testCase": "TV Shows Search",
+    "term": "Breaking Bad",
+    "media": "all",
+    "entity": "tvSeason"
+  },
+  {
+    "testCase": "Movies Search with Limit",
+    "term": "Marvel",
+    "media": "all",
+    "entity": "movie"
+
+  }
+
+
+]

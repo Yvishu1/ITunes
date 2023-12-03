@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="groups">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="movie" />
+            <item index="1" class="java.lang.String" itemvalue="regression" />
+            <item index="2" class="java.lang.String" itemvalue="smoke" />
+            <item index="3" class="java.lang.String" itemvalue="movies" />
+            <item index="4" class="java.lang.String" itemvalue="musicVideo" />
+            <item index="5" class="java.lang.String" itemvalue="urls" />
+            <item index="6" class="java.lang.String" itemvalue="Names" />
+            <item index="7" class="java.lang.String" itemvalue="all" />
+            <item index="8" class="java.lang.String" itemvalue="audiobook" />
+            <item index="9" class="java.lang.String" itemvalue="ebook" />
+            <item index="10" class="java.lang.String" itemvalue="music" />
+            <item index="11" class="java.lang.String" itemvalue="shortFilm" />
+            <item index="12" class="java.lang.String" itemvalue="software" />
+            <item index="13" class="java.lang.String" itemvalue="tvShow" />
+            <item index="14" class="java.lang.String" itemvalue="podcast" />
+            <item index="15" class="java.lang.String" itemvalue="countries" />
+            <item index="16" class="java.lang.String" itemvalue="kind" />
+            <item index="17" class="java.lang.String" itemvalue="language" />
+            <item index="18" class="java.lang.String" itemvalue="limit" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

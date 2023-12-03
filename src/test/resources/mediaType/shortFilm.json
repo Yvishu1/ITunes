@@ -1,0 +1,32 @@
+[
+  {
+    "testCase": "Search by Short Film Title",
+    "term": "Drama Short Film",
+    "media": "shortFilm",
+    "shortFilmTitle": "Drama in the City"
+  },
+  {
+    "testCase": "Search by Short Film Genre",
+    "term": "Comedy",
+    "media": "shortFilm",
+    "genre": "Comedy"
+  },
+  {
+    "testCase": "Search by Short Film Director",
+    "term": "Director Name",
+    "media": "shortFilm",
+    "director": "Short Film Director"
+  },
+  {
+    "testCase": "Search by Short Film Year",
+    "term": "2022",
+    "media": "shortFilm",
+    "year": "2022"
+  },
+  {
+    "testCase": "Search by Short Film Language",
+    "term": "French",
+    "media": "shortFilm",
+    "language": "French"
+  }
+]
