@@ -7,9 +7,9 @@ To run Tests - use below simple maven command:
 
 Check below for more details:
 
-testplan - src/test/resources/TestPlanDocs
-testcases - src/test/java/com/apple/TestCases
-issues - src/test/resources/issues
+- testplan - src/test/resources/TestPlanDocs
+- testcases - src/test/java/com/apple/TestCases
+- issues - src/test/resources/issues
 
 
 
